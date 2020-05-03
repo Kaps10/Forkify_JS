@@ -21,4 +21,4 @@ Application Screenshot:
 
 ![](Screenshots/4.JPG)
 
-![](Screenshots/5.JPG)
+![](Screenshots/5.jpg)
